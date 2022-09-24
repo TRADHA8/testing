@@ -1,2 +1,2 @@
 # testing
-testing repotelugu skillhub
+testing repo telugu skillhub
